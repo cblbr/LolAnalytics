@@ -1,6 +1,6 @@
 # ShouldWeSurrender15
 
-The goal of this project is to create a model to predict probability of winning in the game of League of legends given the state of the game after 10 minutes. It was inspired by [OpenAi 5](https://openai.com/projects/five/) bots who calculate the probability of winning against the professional DoTa2 players during the match. 
+The goal of this project is to create a model to predict probability of winning in the game of League of legends given the state after 10 minutes. It was inspired by [OpenAi 5](https://openai.com/projects/five/) bots which calculate the probability of winning against the professional DoTa2 players during the match. 
 
 ## Overview 
 
